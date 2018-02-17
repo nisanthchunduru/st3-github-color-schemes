@@ -8,7 +8,7 @@ Github color schemes for Sublime Text 3
 If you're on OS X, just run
 
 ```
-git clone git@github.com:nisanth074/st3-github-color-schemes.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
+git clone git@github.com:nisanth074/st3-github-color-schemes.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/st3-github-color-schemes/
 ```
 
 Open Sublime Text and click on Sublime Text > Preferences > Color Scheme > st3-github-color-schemes > github to use the github color scheme
