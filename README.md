@@ -17,7 +17,7 @@ Open Sublime Text and click on Sublime Text > Preferences > Color Scheme > st3-g
 
 ## Tweaking the color schemes
 
-If you wish to tweak the theme to your taste, use the excellent [TM Theme Editor](http://tmtheme-editor.herokuapp.com/).
+If'd you like to tweak the time to your taste, use the excellent [TM Theme Editor](http://tmtheme-editor.herokuapp.com/).
 
 ## Todos
 
