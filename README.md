@@ -1,5 +1,5 @@
 # st3-github-color-schemes
-Github color schemes for Sublime Text 3
+GitHub color schemes for Sublime Text 3
 
 ![Screenshot](http://i.imgur.com/ptTGIDY.png)
 
